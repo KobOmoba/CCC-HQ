@@ -1,0 +1,7 @@
+/* Custom Command console styling */
+body {
+    background-color: #020617;
+}
+table th, table td {
+    padding: 12px;
+}
